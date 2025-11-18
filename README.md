@@ -25,17 +25,6 @@ The main goal was to clean the data, explore key patterns, Reason for Attrition 
 4. Employee attrition is highest in the Marketing department compared to all other departments.
 5. Employees who completed Masters education receving higher salaries.
 
-## 📁 Project Structure
-HR_Analytics_Project/
-│── dataset/
-│── Excel/
-│── Insight images/
-│── Power BI/
-│── Python/
-│── SQL/
-│── HR_Analytics_Report/
-└── README.md
-
 # 🔍 What I Did in This Project -
 1. Cleaned the raw HR data (handled missing values, created new features)
 2. Performed EDA using Python to find insights patterns and trends
