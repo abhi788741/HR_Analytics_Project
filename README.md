@@ -10,7 +10,7 @@ The main goal was to clean the data, explore key patterns, Reason for Attrition 
 3. Python (Pandas + Matplotlib + Seaborn) – Data cleaning, feature enigineering, EDA & visual insights
 4. Power BI – Data transformation & interactive dashboard
 5. MS Word - Data Reporting
-
+6. 
 ## 🎯 Objectives -
 1. Clean and prepare employee data
 2. Analyse factors that impact employee attrition
